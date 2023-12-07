@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using WebAPI.Models;
-
+// Shopping configure
 namespace WebAPI.Configurations
 {
     public class ShoppingListConfiguration : IEntityTypeConfiguration<ShoppingList>
